@@ -8,5 +8,5 @@ for beginners.
 
 Compatibility
 =============
-It was tested on an iPhone 5 running iOS 7.0.4 and should not work on a firmware < 7.x or
-a 64-Bit device as it depends on Mobile Substrate.
+It was tested on an iPhone 5 running iOS 7.0.4 and should NOW work on
+a 64-Bit device as well.
